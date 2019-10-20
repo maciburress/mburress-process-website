@@ -4360,7 +4360,7 @@ take precedence the ones in this file. */
 					.post.style3.invert input[type="button"]:active,
 					.post.style3.invert button:active,
 					.post.style3.invert .button:active {
-						background-color: #17a689;
+						background-color: #84a9cd;
 					}
 
 					.post.style3.invert input[type="submit"].alt,
