@@ -4113,7 +4113,7 @@ take precedence the ones in this file. */
 				.post.style2.invert input[type="button"],
 				.post.style2.invert button,
 				.post.style2.invert .button {
-					background-color: #1abc9c;
+					background-color: #84a9cd;
 					color: #fff !important;
 				}
 
@@ -4122,7 +4122,7 @@ take precedence the ones in this file. */
 					.post.style2.invert input[type="button"]:hover,
 					.post.style2.invert button:hover,
 					.post.style2.invert .button:hover {
-						background-color: #1dd2af;
+						background-color: #84a9cd;
 					}
 
 					.post.style2.invert input[type="submit"]:active,
@@ -4130,7 +4130,7 @@ take precedence the ones in this file. */
 					.post.style2.invert input[type="button"]:active,
 					.post.style2.invert button:active,
 					.post.style2.invert .button:active {
-						background-color: #17a689;
+						background-color: #84a9cd;
 					}
 
 					.post.style2.invert input[type="submit"].alt,
