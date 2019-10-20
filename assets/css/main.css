@@ -3453,7 +3453,7 @@ take precedence the ones in this file. */
 		#banner input[type="radio"]:checked + label:before {
 			background-color: #fff;
 			border-color: #fff;
-			color: #3498db;
+			color: #00538b;
 		}
 
 		#banner input[type="checkbox"]:focus + label:before,
