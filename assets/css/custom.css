@@ -21,12 +21,12 @@ Just un comment the #banner rule below. */
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
 #banner .banner {
-  background-color: rgba(#84a9cd);
+  background-color: #84a9cd;
   box-shadow: none;
 }
 
 #banner .banner {
-  background-color: rgba(#84a9cd);
+  background-color: #84a9cd;
 }
 
 
