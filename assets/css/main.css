@@ -2023,7 +2023,7 @@ take precedence the ones in this file. */
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: css-font-stacks;
+			font-family: css-font-stack;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2087,7 +2087,7 @@ take precedence the ones in this file. */
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: css-font-stacks;
+				font-family: css-font-stack;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2223,7 +2223,7 @@ take precedence the ones in this file. */
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: css-font-stacks;
+			font-family: css-font-stack;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
