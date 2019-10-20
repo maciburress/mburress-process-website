@@ -1,11 +1,11 @@
 @charset "UTF-8";
-@import url(css-font-stack.min.css);
+@import url(fonts-google.min.css);
 
 /* If you want to change the typefaces being used. The first thing to do is change the font link below.
 Then, you have to go through the css file to rename the fonts. The easist way is to find the rules in here
 or by using the web inspector in the browser. Then, rewrite the css rules in the "custom.css" file. They will
 take precedence the ones in this file. */
-@import url("https://www.cssfontstack.com/Century-Gothic");
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 
 /* Reset */
 
@@ -1589,7 +1589,7 @@ take precedence the ones in this file. */
 	}
 
 	body, input, select, textarea {
-		font-family: "Century-Gothic", Arial, Helvetica, sans-serif;
+		font-family: "Montserrat", Arial, Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
@@ -1687,7 +1687,7 @@ take precedence the ones in this file. */
 	code {
 		border-radius: 0;
 		border: solid 1px;
-		font-family: "Century-Gothic", monospace;
+		font-family: "Montserrat", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -1695,7 +1695,7 @@ take precedence the ones in this file. */
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Century-Gothic", monospace;
+		font-family: "Montserrat", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -2023,7 +2023,7 @@ take precedence the ones in this file. */
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: css-font-stack;
+			font-family: "Montserrat";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2087,7 +2087,7 @@ take precedence the ones in this file. */
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: css-font-stack;
+				font-family: "Montserrat";
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2223,7 +2223,7 @@ take precedence the ones in this file. */
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: css-font-stack;
+			font-family: "Montserrat";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2697,7 +2697,7 @@ take precedence the ones in this file. */
 					.wrapper.style1 input[type="button"].alt:hover,
 					.wrapper.style1 button.alt:hover,
 					.wrapper.style1 .button.alt:hover {
-						background-color: #84a9cd;
+						background-color: rgba(144, 144, 144, 0.075);
 					}
 
 					.wrapper.style1 input[type="submit"].alt:active,
