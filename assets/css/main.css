@@ -1746,7 +1746,7 @@ take precedence the ones in this file. */
 	}
 
 	blockquote {
-		border-left-color: rgba(144, 144, 144, 0.25);
+		border-left-color: ##000000;
 	}
 
 	code {
@@ -1894,7 +1894,7 @@ take precedence the ones in this file. */
 	input[type="button"],
 	button,
 	.button {
-		background-color: #1abc9c;
+		background-color: #00538b;
 		color: #fff !important;
 	}
 
@@ -1903,7 +1903,7 @@ take precedence the ones in this file. */
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #1dd2af;
+			background-color: #00538b;
 		}
 
 		input[type="submit"]:active,
@@ -1911,7 +1911,7 @@ take precedence the ones in this file. */
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #17a689;
+			background-color: #00538b;
 		}
 
 		input[type="submit"].alt,
@@ -1953,7 +1953,7 @@ take precedence the ones in this file. */
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #3498db;
+			background-color: #00538b;
 			color: #fff !important;
 		}
 
@@ -1962,7 +1962,7 @@ take precedence the ones in this file. */
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #4aa3df;
+				background-color: #00538b;
 			}
 
 			input[type="submit"].special:active,
@@ -1970,7 +1970,7 @@ take precedence the ones in this file. */
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #258cd1;
+				background-color: #00538b;
 			}
 
 /* Form */
