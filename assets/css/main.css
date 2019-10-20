@@ -5,7 +5,7 @@
 Then, you have to go through the css file to rename the fonts. The easist way is to find the rules in here
 or by using the web inspector in the browser. Then, rewrite the css rules in the "custom.css" file. They will
 take precedence the ones in this file. */
-@import url("https://fonts.googleapis.com/css?family=Lato:300,700,300italic,700italic");
+@import url("https://www.cssfontstack.com/Century-Gothic");
 
 /* Reset */
 
@@ -3332,7 +3332,7 @@ take precedence the ones in this file. */
 		}
 
 		#banner code {
-			background: rgba(255, 255, 255, 0.075);
+			background:  rgba(255, 255, 255, 0.075);
 			border-color: rgba(255, 255, 255, 0.25);
 		}
 
