@@ -4020,7 +4020,7 @@ take precedence the ones in this file. */
 				.post.style2 input[type="button"]:hover,
 				.post.style2 button:hover,
 				.post.style2 .button:hover {
-					background-color: #1dd2af;
+					background-color: #84a9cd;
 				}
 
 				.post.style2 input[type="submit"]:active,
@@ -4028,7 +4028,7 @@ take precedence the ones in this file. */
 				.post.style2 input[type="button"]:active,
 				.post.style2 button:active,
 				.post.style2 .button:active {
-					background-color: #17a689;
+					background-color: #84a9cd;
 				}
 
 				.post.style2 input[type="submit"].alt,
