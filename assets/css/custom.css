@@ -41,6 +41,10 @@ added to the button in the index html file as well.*/
   margin-right: 1em;
 }
 
-head {
+.head {
   background-color: #00538b;
+}
+
+.footer {
+   background-color: #00538b;
 }
