@@ -2721,12 +2721,12 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="button"].special,
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
-					background-color: #1abc9c;
+					background-color: #00538b;
 					color: #fff !important;
 				}
 
 			.wrapper.style1 label {
-				color: #1abc9c;
+				color: #00538b;
 			}
 
 			.wrapper.style1 input[type="text"],
@@ -2743,7 +2743,7 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="email"]:focus,
 				.wrapper.style1 select:focus,
 				.wrapper.style1 textarea:focus {
-					border-color: #1abc9c;
+					border-color: #00538b;
 					box-shadow: 0 0 0 1px #1abc9c;
 				}
 
