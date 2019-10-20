@@ -3685,7 +3685,7 @@ take precedence the ones in this file. */
 				}
 
 					.post .content .postnav .prev:hover, .post .content .postnav .next:hover {
-						background: rgba(144, 144, 144, 0.075);
+						background: rgba(0, 0, 0, 0.075);
 					}
 
 					.post .content .postnav .prev.disabled, .post .content .postnav .next.disabled {
