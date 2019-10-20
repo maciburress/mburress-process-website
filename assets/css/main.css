@@ -4173,11 +4173,11 @@ take precedence the ones in this file. */
 					.post.style2.invert button.special,
 					.post.style2.invert .button.special {
 						background-color: #fff;
-						color: #3498db !important;
+						color: #84a9cd !important;
 					}
 
 				.post.style2.invert .content {
-					background: #3498db;
+					background: #84a9cd;
 				}
 
 					.post.style2.invert .content header p {
