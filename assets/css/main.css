@@ -2697,7 +2697,7 @@ take precedence the ones in this file. */
 					.wrapper.style1 input[type="button"].alt:hover,
 					.wrapper.style1 button.alt:hover,
 					.wrapper.style1 .button.alt:hover {
-						background-color: rgba(144, 144, 144, 0.075);
+						background-color: #84a9cd;
 					}
 
 					.wrapper.style1 input[type="submit"].alt:active,
