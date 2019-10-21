@@ -45,6 +45,6 @@ added to the button in the index html file as well.*/
   font-size: 15px;
 }
 
-#kern {
-  font-kerning: 1em;
+.kern div h1 {
+  letter-spacing: 1em;
 }
