@@ -1583,10 +1583,10 @@ take precedence the ones in this file. */
 
 /* Type */
 
-	/*body {
+	body {
 		background-color: #fff;
 		color: #444;
-	}*/
+	}
 
 	body, input, select, textarea {
 		font-family: "Montserrat", Arial, Helvetica, sans-serif;
@@ -1616,7 +1616,7 @@ take precedence the ones in this file. */
 	}
 
 		a:hover {
-			text-decoration: underline;
+			text-decoration: transparent;
 		}
 
 	strong, b {
