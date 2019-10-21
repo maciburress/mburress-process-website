@@ -42,6 +42,6 @@ added to the button in the index html file as well.*/
 }
 
 .image {
-  height: auto;
-  width: auto;
+  height: inherit;
+  width: inherit;
 }
