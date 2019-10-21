@@ -41,10 +41,10 @@ added to the button in the index html file as well.*/
   margin-right: 1em;
 }
 
-.banner div h1 {
+.banner h1 {
   font-size: 15px;
 }
 
-.px-wide div h1 {
+.px-wide h1 {
   letter-spacing: 6px;
 }
