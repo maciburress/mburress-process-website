@@ -44,3 +44,7 @@ added to the button in the index html file as well.*/
 .banner div h1 {
   font-size: 15px;
 }
+
+#kern {
+  font-kerning: 1em;
+}
