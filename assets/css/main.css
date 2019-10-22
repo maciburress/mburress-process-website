@@ -3635,7 +3635,7 @@ take precedence the ones in this file. */
 			background: #FFF;
 			padding: 8em;
 			text-align: right;
-			position: fixed;
+			position: relative;
 		}
 
 			.post .content:before {
@@ -3669,7 +3669,7 @@ take precedence the ones in this file. */
 			}
 
 			.post .content .postnav {
-				position: absolute;
+				position: fixed;
 				left: 2em;
 				bottom: 2em;
 			}
