@@ -3681,7 +3681,7 @@ take precedence the ones in this file. */
 					width: 2em;
 					height: 2em;
 					line-height: 2em;
-					text-align: center;
+					text-align: relative;
 				}
 
 					.post .content .postnav .prev:hover, .post .content .postnav .next:hover {
