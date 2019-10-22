@@ -2496,7 +2496,7 @@ take precedence the ones in this file. */
 	}
 
 	header p {
-		position: relative;
+		position: center;
 		margin: 0 0 1.5em 0;
 	}
 
