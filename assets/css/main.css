@@ -2611,7 +2611,7 @@ take precedence the ones in this file. */
 /* Wrapper */
 
 	.wrapper {
-		position: inherit;
+		position: relative;
 	}
 
 		.wrapper > .inner {
@@ -3547,7 +3547,7 @@ take precedence the ones in this file. */
 		@media screen and (max-width: 1280px) {
 
 			#banner h1 {
-				font-size: 2.0em;
+				font-size: 1.5em;
 			}
 
 				#banner h1 br {
