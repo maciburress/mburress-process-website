@@ -3689,7 +3689,7 @@ take precedence the ones in this file. */
 					}
 
 					.post .content .postnav .prev.disabled, .post .content .postnav .next.disabled {
-						color: #8fc2dc;
+						color: inherit;
 						pointer-events: none;
 					}
 
@@ -3760,7 +3760,7 @@ take precedence the ones in this file. */
 
 		.post.style1 {
 			background-color: #fff;
-			color: #8fc2dc;
+			color: #000000;
 		}
 
 			.post.style1 input, .post.style1 select, .post.style1 textarea {
@@ -3848,7 +3848,7 @@ take precedence the ones in this file. */
 					.post.style1 input[type="button"].alt.icon:before,
 					.post.style1 button.alt.icon:before,
 					.post.style1 .button.alt.icon:before {
-						color: #bbb;
+						color: #8fc2dc;
 					}
 
 				.post.style1 input[type="submit"].special,
@@ -3974,23 +3974,23 @@ take precedence the ones in this file. */
 
 		.post.style2 {
 			background-color: #fff;
-			color: #444;
+			color: #000000;
 		}
 
 			.post.style2 input, .post.style2 select, .post.style2 textarea {
-				color: #3498db;
+				color: #8fc2dc;
 			}
 
 			.post.style2 a {
-				color: #3498db;
+				color: #8fc2dc;
 			}
 
 			.post.style2 strong, .post.style2 b {
-				color: #3498db;
+				color: #8fc2dc;
 			}
 
 			.post.style2 h1, .post.style2 h2, .post.style2 h3, .post.style2 h4, .post.style2 h5, .post.style2 h6 {
-				color: #3498db;
+				color: #8fc2dc;
 			}
 
 			.post.style2 blockquote {
