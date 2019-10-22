@@ -46,7 +46,6 @@ added to the button in the index html file as well.*/
   width: inherit;
 }
 
-.three h2 a
-{
-  color: #8fc2dc;
+.three h2 a {
+  style= color: #8fc2dc;
 }
