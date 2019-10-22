@@ -1667,7 +1667,7 @@ take precedence the ones in this file. */
 
 	sub {
 		font-size: 0.8em;
-		position: relative;
+		position: inherit;
 		top: 0.5em;
 	}
 
