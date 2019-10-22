@@ -3669,7 +3669,7 @@ take precedence the ones in this file. */
 			}
 
 			.post .content .postnav {
-				position: fixed;
+				position: absolute;
 				left: 2em;
 				bottom: 2em;
 			}
@@ -4518,7 +4518,7 @@ take precedence the ones in this file. */
 /* Footer */
 
 	#footer {
-		padding: 4em 0 2em 0;
+		padding: 4em 0 4em 0;
 		background: #8fc2dc ;
 		text-align: center;
 	}
