@@ -2611,12 +2611,12 @@ take precedence the ones in this file. */
 /* Wrapper */
 
 	.wrapper {
-		position: relative;
+		position: inherit;
 	}
 
 		.wrapper > .inner {
 			margin: 0 auto;
-			width: 75em;
+			width: 69em;
 		}
 
 		.wrapper.style1 {
