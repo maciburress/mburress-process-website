@@ -4092,7 +4092,7 @@ take precedence the ones in this file. */
 				}
 
 				.post.style2.invert h1, .post.style2.invert h2, .post.style2.invert h3, .post.style2.invert h4, .post.style2.invert h5, .post.style2.invert h6 {
-					color: #8fc2dc;
+					color: #fff;
 				}
 
 				.post.style2.invert blockquote {
@@ -4519,7 +4519,7 @@ take precedence the ones in this file. */
 
 	#footer {
 		padding: 4em 0 1em 0;
-		background: #8fc2dc ;
+		background: #ffffff ;
 		text-align: center;
 	}
 
