@@ -45,3 +45,9 @@ added to the button in the index html file as well.*/
   height: inherit;
   width: inherit;
 }
+
+.post-style1 div .content {
+  float: right;
+  position: absolute;
+  text-align: justify;
+}
