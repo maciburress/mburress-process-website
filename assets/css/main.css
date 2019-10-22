@@ -4305,7 +4305,7 @@ take precedence the ones in this file. */
 				}
 
 			.post.style3.invert {
-				background-color: #84a9cd;
+				background-color: #8fc2dc ;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -4360,7 +4360,7 @@ take precedence the ones in this file. */
 					.post.style3.invert input[type="button"]:active,
 					.post.style3.invert button:active,
 					.post.style3.invert .button:active {
-						background-color: #84a9cd;
+						background-color: #8fc2dc ;
 					}
 
 					.post.style3.invert input[type="submit"].alt,
@@ -4429,7 +4429,7 @@ take precedence the ones in this file. */
 						}
 
 				.post.style3.invert .image {
-					background-color: #84a9cd;
+					background-color: #8fc2dc ;
 				}
 
 		@media screen and (max-width: 1280px) {
@@ -4519,7 +4519,7 @@ take precedence the ones in this file. */
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background: #1c1c1c;
+		background: 00538b;
 		text-align: center;
 	}
 
