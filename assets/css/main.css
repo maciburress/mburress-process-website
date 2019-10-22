@@ -1945,7 +1945,7 @@ take precedence the ones in this file. */
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #bbb;
+				color: #8fc2dc;
 			}
 
 		input[type="submit"].special,
