@@ -2497,7 +2497,7 @@ take precedence the ones in this file. */
 
 	header p {
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1.0em 0;
 	}
 
 	header h2 + p {
@@ -2506,7 +2506,7 @@ take precedence the ones in this file. */
 	}
 
 	header h3 + p {
-		font-size: 1.1em;
+		font-size: 1.0em;
 		margin-top: -0.8em;
 	}
 
@@ -2616,7 +2616,7 @@ take precedence the ones in this file. */
 
 		.wrapper > .inner {
 			margin: 0 auto;
-			width: 60em;
+			width: 75em;
 		}
 
 		.wrapper.style1 {
