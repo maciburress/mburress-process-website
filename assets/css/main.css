@@ -3657,7 +3657,7 @@ take precedence the ones in this file. */
 			}
 
 			.post .content header p {
-				font-size: 1em;
+				font-size: .550em;
 				font-style: italic;
 				border-top: 1px solid rgba(0, 0, 0, 0.25);
 				border-bottom: 1px solid rgba(0, 0, 0, 0.25);
