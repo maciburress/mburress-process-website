@@ -46,9 +46,6 @@ added to the button in the index html file as well.*/
   width: inherit;
 }
 
-.wrapper.style1 a {
-  height: inherit;
-  width: inherit;
-  position: fixed;
-  text-align: justify;
+.three .content h2 a {
+  color: #8fc2dc;
 }
