@@ -1734,7 +1734,7 @@ take precedence the ones in this file. */
 	}
 
 	a {
-		color: #00538b;
+		color: #8fc2dc;
 	}
 
 	strong, b {
@@ -1894,7 +1894,7 @@ take precedence the ones in this file. */
 	input[type="button"],
 	button,
 	.button {
-		background-color: #00538b;
+		background-color: #8fc2dc;
 		color: #fff !important;
 	}
 
@@ -1903,7 +1903,7 @@ take precedence the ones in this file. */
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #00538b;
+			background-color: #8fc2dc;
 		}
 
 		input[type="submit"]:active,
@@ -1911,7 +1911,7 @@ take precedence the ones in this file. */
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #00538b;
+			background-color: #8fc2dc;
 		}
 
 		input[type="submit"].alt,
@@ -1953,7 +1953,7 @@ take precedence the ones in this file. */
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #00538b;
+			background-color: #8fc2dc;
 			color: #fff !important;
 		}
 
@@ -1962,7 +1962,7 @@ take precedence the ones in this file. */
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #00538b;
+				background-color: #8fc2dc;
 			}
 
 			input[type="submit"].special:active,
@@ -1970,7 +1970,7 @@ take precedence the ones in this file. */
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #00538b;
+				background-color: #8fc2dc;
 			}
 
 /* Form */
