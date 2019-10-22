@@ -3114,7 +3114,7 @@ take precedence the ones in this file. */
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: google-font-stack;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
