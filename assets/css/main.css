@@ -2934,7 +2934,7 @@ take precedence the ones in this file. */
 				}
 
 			.wrapper.style2 label {
-				color: #00538b;
+				color: #8fc2dc ;
 			}
 
 			.wrapper.style2 input[type="text"],
@@ -3547,7 +3547,7 @@ take precedence the ones in this file. */
 		@media screen and (max-width: 1280px) {
 
 			#banner h1 {
-				font-size: 2.75em;
+				font-size: 2.0em;
 			}
 
 				#banner h1 br {
