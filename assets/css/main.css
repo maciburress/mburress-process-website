@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(fonts.google.css);
+@import url(fonts.Montserrat.css);
 
 /* If you want to change the typefaces being used. The first thing to do is change the font link below.
 Then, you have to go through the css file to rename the fonts. The easist way is to find the rules in here
