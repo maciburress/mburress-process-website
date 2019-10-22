@@ -2776,23 +2776,23 @@ take precedence the ones in this file. */
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
-				color: #bbb !important;
+				color: #8fc2dc !important;
 			}
 
 			.wrapper.style1 :-moz-placeholder {
-				color: #bbb !important;
+				color: #8fc2dc !important;
 			}
 
 			.wrapper.style1 ::-moz-placeholder {
-				color: #bbb !important;
+				color: #8fc2dc !important;
 			}
 
 			.wrapper.style1 :-ms-input-placeholder {
-				color: #bbb !important;
+				color: #8fc2dc !important;
 			}
 
 			.wrapper.style1 .formerize-placeholder {
-				color: #bbb !important;
+				color: #8fc2dc !important;
 			}
 
 			.wrapper.style1 ul.alt li {
@@ -2800,7 +2800,7 @@ take precedence the ones in this file. */
 			}
 
 			.wrapper.style1 header p {
-				color: #bbb;
+				color: #8fc2dc;
 			}
 
 			.wrapper.style1 table tbody tr {
