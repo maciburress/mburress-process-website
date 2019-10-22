@@ -3635,7 +3635,7 @@ take precedence the ones in this file. */
 			background: #FFF;
 			padding: 8em;
 			text-align: right;
-			position: relative;
+			position: inherit;
 		}
 
 			.post .content:before {
