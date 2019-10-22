@@ -3059,7 +3059,7 @@ take precedence the ones in this file. */
 
 	#header {
 		background: #1c1c1c;
-		color: #8fc2dc;
+		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
 		left: 0;
@@ -3689,7 +3689,7 @@ take precedence the ones in this file. */
 					}
 
 					.post .content .postnav .prev.disabled, .post .content .postnav .next.disabled {
-						color: #bbb;
+						color: #8fc2dc;
 						pointer-events: none;
 					}
 
