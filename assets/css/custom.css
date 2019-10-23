@@ -45,7 +45,7 @@ added to the button in the index html file as well.*/
   height: inherit;
   width: inherit;
 }
-.right {
+.left {
   float: right;
   margin-left: 1em;
 }
