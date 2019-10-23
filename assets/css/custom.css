@@ -50,6 +50,7 @@ added to the button in the index html file as well.*/
   margin-left: 1em;
 }
 
-.image .style-tile {
-  image resize: 50%;
+.image.resize .style-tile {
+   max width: 50%; 
+   max height: 50%;
 }
