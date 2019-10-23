@@ -51,6 +51,6 @@ added to the button in the index html file as well.*/
 }
 
 .style-tile {
-   max width: 10;
-   max height: 10;
+   max width: .5;
+   max height: .5;
 }
