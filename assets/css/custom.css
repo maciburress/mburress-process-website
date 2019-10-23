@@ -49,3 +49,7 @@ added to the button in the index html file as well.*/
   float: right;
   margin-left: 1em;
 }
+
+.image {
+  height: inherit;
+  width: inherit;
