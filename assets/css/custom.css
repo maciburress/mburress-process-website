@@ -50,6 +50,6 @@ added to the button in the index html file as well.*/
   margin-left: 1em;
 }
 
-.image {
-  height: inherit;
-  width: inherit;
+.image .style-tile {
+  image resize: 50%;
+}
